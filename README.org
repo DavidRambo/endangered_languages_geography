@@ -1,0 +1,5 @@
+#+title: Geographical Distribution of Endangered Languages
+
+This Jupyter Notebook is based on a dataset on kaggle: https://www.kaggle.com/code/hanyan/geographical-spread-of-endangered-language/data?select=data.csv
+
+I worked on it with Milton Fonseca and Carolina Barragan.
